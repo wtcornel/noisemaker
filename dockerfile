@@ -1,3 +1,8 @@
+#By: William Cornell
+#FOR: MTU ITO Cyber Range 9/20/2024
+#Noisemaker - A docker container that replays pcap files to simulate network traffic
+
+#deb>arch
 FROM ubuntu:20.04
 
 # Install necessary dependencies
